@@ -1,6 +1,4 @@
 # Banking-App
-
-# Banking-App
 Banking Application
 
 #Overview: The Banking Application is a Spring Boot-based web application that provides banking functionalities such as account management, transactions, and user authentication.
